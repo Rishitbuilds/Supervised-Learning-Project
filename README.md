@@ -193,5 +193,3 @@ The classification reports and confusion matrices help analyze and compare the p
 **Rishit**
 
 Python Developer | Building Projects and Learning by Practice
-
-*Python Developer | Learning Machine Learning and Building Projects Through Practice*
